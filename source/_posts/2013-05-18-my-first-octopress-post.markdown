@@ -12,6 +12,7 @@ categories: "octpress"
 2. [octopress技術筆記](http://zerodie.github.io/blog/2012/01/19/octopress-github-pages/)
 3. [octopress無法使用ssh](http://teddywu.info/blog/2013/03/16/octopree-rake-deploy-ssh-connect-timed-out/)
 4. [在windows底下無法使用octpress產生"UTF8"編碼檔案的解決辦法](http://larry0529.github.io/blog/2012/04/29/20120429/)
+5. [使用Octopress快速記錄程式碼筆記(安裝教學 for Windows)](http://jex-lin.github.io/blog/2013/05/01/install-octopress/)
 
 這些文章，才安裝好。
 搞了老半天，我的電腦似乎不能支援ssh + github.com。最後採用ssl的設計才OK。
