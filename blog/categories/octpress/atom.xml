@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://allen501pc.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octpress | My Octopress Blog]]></title>
+  <link href="http://allen501pc.github.io/blog/categories/octpress/atom.xml" rel="self"/>
   <link href="http://allen501pc.github.io/"/>
   <updated>2013-05-18T15:04:48+08:00</updated>
   <id>http://allen501pc.github.io/</id>
@@ -26,7 +26,7 @@
 <li><a href="http://tech.marsw.tw/blog/2012/11/23/setup-octopress-on-windows-from-zero-to-100/">octopress setup in windows</a></li>
 <li><a href="http://zerodie.github.io/blog/2012/01/19/octopress-github-pages/">octopress技術筆記</a></li>
 <li><a href="http://teddywu.info/blog/2013/03/16/octopree-rake-deploy-ssh-connect-timed-out/">octopress無法使用ssh</a></li>
-<li><a href="http://larry0529.github.io/blog/2012/04/29/20120429/">在windows底下無法使用octpress產生&#8221;UTF8&#8221;編碼檔案的解決辦法</a></li>
+<li><a href="http://larry0529.github.io/blog/2012/04/29/20120429/">在windows底下無法使用octpress產生"UTF8"編碼檔案的解決辦法</a></li>
 </ol>
 
 
