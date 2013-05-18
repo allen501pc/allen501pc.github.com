@@ -5,7 +5,7 @@ date: 2013-05-18 14:08
 comments: true
 categories: "octpress"
 ---
-# 終於開張了.
+### 終於開張了.
 參考了
 
 1. [octopress setup in windows](http://tech.marsw.tw/blog/2012/11/23/setup-octopress-on-windows-from-zero-to-100/) 
