@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://allen501pc.github.io/sitemap.xml 
