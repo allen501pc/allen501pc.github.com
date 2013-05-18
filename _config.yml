@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://allen501pc.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Allen's Technical Blog.
+subtitle: The code geek's blog posts.
+author: Allen
 simple_search: http://google.com/search
 description:
 
@@ -90,11 +90,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: allen501pc
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
