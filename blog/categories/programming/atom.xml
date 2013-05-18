@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Allen's Technical Blog.]]></title>
-  <link href="http://allen501pc.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Programming | Allen's Technical Blog.]]></title>
+  <link href="http://allen501pc.github.io/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://allen501pc.github.io/"/>
   <updated>2013-05-18T20:38:10+08:00</updated>
   <id>http://allen501pc.github.io/</id>
@@ -27,29 +27,6 @@
 
 
 <p>By default, note that your database connection string should be *<a href="http://your_host:27017/your_db_name*.">http://your_host:27017/your_db_name*.</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[我的第一篇文章]]></title>
-    <link href="http://allen501pc.github.io/blog/2013/05/18/my-first-octopress-post/"/>
-    <updated>2013-05-18T14:08:00+08:00</updated>
-    <id>http://allen501pc.github.io/blog/2013/05/18/my-first-octopress-post</id>
-    <content type="html"><![CDATA[<h3>終於開張了.</h3>
-
-<p>參考了</p>
-
-<ol>
-<li><a href="http://tech.marsw.tw/blog/2012/11/23/setup-octopress-on-windows-from-zero-to-100/">octopress setup in windows</a></li>
-<li><a href="http://zerodie.github.io/blog/2012/01/19/octopress-github-pages/">octopress技術筆記</a></li>
-<li><a href="http://teddywu.info/blog/2013/03/16/octopree-rake-deploy-ssh-connect-timed-out/">octopress無法使用ssh</a></li>
-<li><a href="http://larry0529.github.io/blog/2012/04/29/20120429/">在windows底下無法使用octpress產生&#8221;UTF8&#8221;編碼檔案的解決辦法</a></li>
-<li><a href="http://jex-lin.github.io/blog/2013/05/01/install-octopress/">使用Octopress快速記錄程式碼筆記(安裝教學 for Windows)</a></li>
-</ol>
-
-
-<p>這些文章，才安裝好。
-搞了老半天，我的電腦似乎不能支援ssh + github.com。最後採用ssl的設計才OK。</p>
 ]]></content>
   </entry>
   
