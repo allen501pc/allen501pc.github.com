@@ -39,7 +39,7 @@ Sharon Fernandes is the Mumbai Localite for BBC Travel
 12. entrepreneur (n.) 企業家、生意人  
 13. thriving (adj.) 繁華的、興盛的、旺盛的  
 14. coexist (vi.) 共存  
-15. suburb (adj.) 市郊的  
+15. suburb (n.) 市郊  
 16. promenade (n.) 正式舞會、散步、此種散步活動的公共區域 (vt.) 悠閒地散步  
 17. buzz (vi.) 嗡嗡聲、發出嘈雜聲 (vt.) 低聲說話 (n.) 嗡嗡聲、打電話  
 18. skyscraper (n.) 摩天大樓    
