@@ -4,7 +4,7 @@
   <title><![CDATA[Category: C# | Allen's Technical Blog.]]></title>
   <link href="http://allen501pc.github.io/blog/categories/c-number/atom.xml" rel="self"/>
   <link href="http://allen501pc.github.io/"/>
-  <updated>2013-05-19T15:46:44+08:00</updated>
+  <updated>2013-05-20T22:15:49+08:00</updated>
   <id>http://allen501pc.github.io/</id>
   <author>
     <name><![CDATA[Allen]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[[C#] The difference between 'new' and 'override']]></title>
+    <link href="http://allen501pc.github.io/blog/2013/05/20/c-number-the-difference-between-new-and-overide/"/>
+    <updated>2013-05-20T22:06:00+08:00</updated>
+    <id>http://allen501pc.github.io/blog/2013/05/20/c-number-the-difference-between-new-and-overide</id>
+    <content type="html"><![CDATA[<p>Any student may be confused about the &ldquo;new&rdquo; and &ldquo;override&rdquo; keywords.
+So&hellip; what&rsquo;s the difference?
+I&rsquo;ve found there&rsquo;s one useful tutorial page and share with you. <br/>
+* <a href="http://www.dotblogs.com.tw/skychang/archive/2012/05/10/72114.aspx">C#-new和override的差異與目的</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MongoDB and C# Programming-The Materials]]></title>
