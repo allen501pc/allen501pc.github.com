@@ -65,7 +65,7 @@ Sharon Fernandes is the Mumbai Localite for BBC Travel
 38. runner (n.) 賽跑者、推銷員  
 39. folks (n.) 人們
 ****
-####Grammars   
+####Grammar   
 **1. [in memory of sb.](http://dict.dreye.com/dj/index.php?dw=in%20memory%20of&hidden_code=01&)  紀念某人**   
 	The obelisk was built in memory of those who died for their country.  
 	這座方尖塔是為了紀念那些為祖國獻身的人而建造的。     
